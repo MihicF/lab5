@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          D:/ra207-2016/lab5/pcores/interrupt_controller_v1_00_a/data/interrupt_controller_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Thu Apr 18 10:23:18 2019 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib interrupt_controller_v1_00_a user_logic vhdl
+lib interrupt_controller_v1_00_a interrupt_controller vhdl
